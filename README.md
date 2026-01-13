@@ -1,2 +1,2 @@
 # data-mining-techniques
-python illustration
+python techniques
