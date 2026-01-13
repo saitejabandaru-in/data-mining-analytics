@@ -1,2 +1,2 @@
 # data-mining-techniques
-python techniques
+python techniques P
